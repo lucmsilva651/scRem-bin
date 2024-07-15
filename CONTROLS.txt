@@ -1,0 +1,32 @@
+Lista de controles
+
+-----------------------------------------
+Comandos
+-----------------------------------------
+
+1 - Start no P1
+2 - Start no P2
+5 - Inserir Créditos (Fichas)
+
+- P1 - Teclado
+Setas - Movem o Personagem
+Z - Soco Fraco
+X - Chute Fraco
+C - Soco Forte
+V - Chute Forte
+
+- P2 - Joystick 1
+Botão 1 - Soco Fraco
+Botão 2 - Chute Fraco
+Botão 3 - Soco Forte
+Botão 4 - Chute Forte
+
+-----------------------------------------
+Teclas Especiais 
+-----------------------------------------
+
+- / +  Modificam a Velocidade
+F1 - Configurações (durante a apresentação)
+F2 - Configurações de Teclas (durante a apresentação)
+P - Pausa
+G - Golpes (durante o jogo)

@@ -1,0 +1,9 @@
+Changelog
+
+-----------------------------------------
+Commit 1 (14/07/2024 - ~23h GMT -03:00)
+-----------------------------------------
+
+- Primeiro commit
+- "Musicas/Musica-003.wav" modificado
+- Arquivos de informações atualizados
