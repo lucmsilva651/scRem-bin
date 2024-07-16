@@ -1,9 +1,19 @@
 Changelog
 
 -----------------------------------------
+Commit 2 (16/07/2024 - ~00h GMT -03:00)
+-----------------------------------------
+
+- "Musicas/Musica-05.wav" modificado
+- "Musicas/Musica-04.wav" modificado
+- "Musicas/Musica-02.wav" modificado
+- Tom de "Musicas/Musica-03.wav" corrigido
+- Nome do arquivo no log anterior corrigido
+
+-----------------------------------------
 Commit 1 (14/07/2024 - ~23h GMT -03:00)
 -----------------------------------------
 
 - Primeiro commit
-- "Musicas/Musica-003.wav" modificado
+- "Musicas/Musica-03.wav" modificado
 - Arquivos de informações atualizados
